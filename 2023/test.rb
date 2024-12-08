@@ -1,0 +1,1 @@
+File.foreach("day1.txt") { |line| puts line }
